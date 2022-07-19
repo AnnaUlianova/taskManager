@@ -1,0 +1,5 @@
+id,type,name,status,description,duration,startTime,epic/subtasks
+0,EPIC,Отпуск,NEW,Поездка в горы в декабре,30,2022-04-26T23:30,1
+1,SUBTASK,Авиабилеты,NEW,Рейс без пересадок,30,2022-04-26T23:30,0
+
+1,0
